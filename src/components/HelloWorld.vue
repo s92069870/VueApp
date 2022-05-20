@@ -1,7 +1,7 @@
 <template>
-  <div class="hello">
+  <div class="hello" >
     <h1>{{ msg }}</h1>
-    <h3>What is the cripto currency</h3>
+    <h3><u>What is the cripto currency</u></h3>
     <p>A cryptocurrency, crypto-currency, crypto, or coin is a digital currency designed to work as a medium of exchange through a computer network that is not reliant on any central authority, 
       such as a government or bank, to uphold or maintain it.
 
@@ -25,12 +25,13 @@ many investors take advantage of this by using arbitrage to find the difference 
 
 The first decentralized cryptocurrency was Bitcoin, which first released as open-source software in 2009. Since the release of Bitcoin, many other cryptocurrencies have been created.</p>
 
-<h3>What Can We Do With Bitcoin</h3>
+<h3><u>What Can We Do With Bitcoin</u></h3>
 <p>
   Bitcoin can be used for online transactions between individuals and nowadays, there are a lot of merchants that accept Bitcoin as a form of 
   payment unlike before. They range from online retailers like Overstock and Newegg to local shops, bars and restaurants. Bitcoins can also be used to pay for hotels, flights, jewellery, apps and computer parts, or even a college degree.
+  <center><iframe width="560" height="315" src="https://www.youtube.com/embed/YsyueRWoa-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 </p>
-<h3> History Of Cryptocurrency</h3>
+<h3><u> History Of Cryptocurrency</u></h3>
 <p>
   In 1983, the American cryptographer David Chaum conceived an anonymous cryptographic electronic money called ecash. Later, in 1995, he implemented it through Digicash, an early form of cryptographic electronic payments. 
   Digicash required user software in order to withdraw notes from a bank and designate specific encrypted keys before it can be sent to a recipient. This allowed the digital currency to be untraceable by the issuing bank, the government, or any third party.</p>
@@ -68,11 +69,19 @@ export default {
 </script>
 
 <style>
+
 p{
   text-align: left;
   text-transform:capitalize;
   font-size: small;
   padding-left: 10%;
+  color: whitesmoke;
+}
+h1{
+  color: whitesmoke;
+}
+h3{
+  color: whitesmoke;
 }
 
 </style>
