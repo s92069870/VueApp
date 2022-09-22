@@ -83,6 +83,10 @@ h1{
 h3{
   color: whitesmoke;
 }
+img{
+  height:Auto;
+  width:100%;
+}
 
 </style>
 
