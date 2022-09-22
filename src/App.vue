@@ -3,7 +3,7 @@
       <li><a href="#home" class="active">Home</a></li>
       <li><a href="#aboutus" >About Us</a></li>
       <li><a href="#contactus" >Contact US</a></li>
-      <li><link rel="NEWS" href="News.html"></li>
+      <li><a href="News.html">News</a></li>
   </ul>
   <img alt="Vue logo" src="https://image.shutterstock.com/image-photo/golden-bitcoin-on-blue-tech-260nw-1828329179.jpg" >
   <HelloWorld msg="Welcome to Crypto Page" style="color:whitesmoke;"/>
