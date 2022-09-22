@@ -85,7 +85,7 @@ h3{
 }
 img{
   height:Auto;
-  width:100%;
+  width:Auto;
 }
 
 </style>
